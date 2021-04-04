@@ -8,11 +8,11 @@ I am a class of 2023 student majoring in ***Computer Science*** and considering 
 
 ## As a Programmer
 
-# Education
+### Education
 1. University of California, San Diego
 2. Santa Margarita Catholic High School
 
-# Experience
+### Experience
 - Google Computer Science Summer Institute Participant
 - UCSD Summer Program for Incoming Students Mentor
 - SangamSD Tech Chair
@@ -20,9 +20,9 @@ I am a class of 2023 student majoring in ***Computer Science*** and considering 
 - UCSD CSE 15L Tutor
 - UCSD Software Engineering Tools Team Member
 
-# Projects (in progress & completed)
+### Projects (in progress & completed)
 - [ ] [UCSD SPIS Website](http://spis.ucsd.edu/)
 - [x] [HAPPY WebApp](http://ama-happy.appspot.com/)
 
-# This Lab
+### This Lab
 For this Lab I used many git commands, including `git clone`, `git add`, `git commit`, and `git push`. I also created a [readme file](README.md) that has my favorite programming language as well as the link to this page. 
